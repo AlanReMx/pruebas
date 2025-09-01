@@ -1,0 +1,16 @@
+Comandos basicos de git
+git init         # Inicializa un nuevo repositorio Git
+git clone        # Clona un repositorio existente
+git status       # Muestra el estado de los archivos en el directorio de trabajo
+git add          # Agrega archivos al área de preparación (staging area)
+git commit       # Guarda los cambios en el historial del repositorio
+git push         # Envía los commits al repositorio remoto
+git pull         # Descarga y fusiona cambios del repositorio remoto
+git branch       # Lista, crea o elimina ramas
+git checkout     # Cambia de rama o restaura archivos
+git merge        # Fusiona ramas
+git log          # Muestra el historial de commits
+git remote       # Administra repositorios remotos
+git fetch        # Descarga objetos y referencias de otro repositorio
+git diff         # Muestra las diferencias entre archivos o commits
+git reset        # Deshace cambios en el área de preparación o en los commits
